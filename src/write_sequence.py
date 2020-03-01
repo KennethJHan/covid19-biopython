@@ -1,5 +1,3 @@
-# write_sequence.py
-
 from Bio import Entrez
 from Bio import SeqIO
 import pandas as pd
@@ -17,13 +15,13 @@ def write_sequence(genbank_id, records):
     record_desc = records[0]["GBSeq_definition"]
     record_seq = records[0]["GBSeq_sequence"]
     with open(genbank_id+".fasta",'w') as fw:
-        fw.write("&gt;"+record_id+" "+record_desc+"\n")
-        fw.write(record_seq)
+        fw.write(">"+record_id+" "+record_desc+"\n")
+        fw.write(record_seq+"\n")
 
 def read_table(file):
     df = pd.read_csv(file, sep="\t")
     return df
-
+        
 file = "COVID-19.ncbi_list.200301.txt"
 df = read_table(file)
 complete_df = df[df["Gene Region"]=="complete"]
