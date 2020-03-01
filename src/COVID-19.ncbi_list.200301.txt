@@ -1,0 +1,99 @@
+GenBank	RefSeq	Gene Region	Collection Date	Locality
+MN908947	NC_045512	complete	Dec-19	China
+LC522972		complete	Jan-20	Japan
+LC522973		complete	Jan-20	Japan
+LC522974		complete	Jan-20	Japan
+LC522975		complete	Jan-20	Japan
+LR757995		complete	05-Jan-20	China: Wuhan
+LR757996		complete	01-Jan-20	China: Wuhan
+LR757998		complete	26-Dec-19	China: Wuhan
+MN938384		complete	10-Jan-20	China: Shenzhen
+MN975262		complete	11-Jan-20	China
+MN985325		complete	19-Jan-20	USA: WA
+MN988668		complete	02-Jan-20	China
+MN988669		complete	02-Jan-20	China
+MN988713		complete	21-Jan-20	USA: IL
+MN994467		complete	23-Jan-20	USA: CA
+MN994468		complete	22-Jan-20	USA: CA
+MN996527		complete	30-Dec-19	China: Wuhan
+MN996528		complete	30-Dec-19	China: Wuhan
+MN996529		complete	30-Dec-19	China: Wuhan
+MN996530		complete	30-Dec-19	China: Wuhan
+MN996531		complete	30-Dec-19	China: Wuhan
+MN997409		complete	22-Jan-20	USA: AZ
+MT007544		complete	25-Jan-20	Australia: Victoria
+MT019529		complete	23-Dec-19	China: Wuhan
+MT019530		complete	30-Dec-19	China: Wuhan
+MT019531		complete	30-Dec-19	China: Wuhan
+MT019532		complete	30-Dec-19	China: Wuhan
+MT019533		complete	01-Jan-20	China: Wuhan
+MT020880		complete	25-Jan-20	USA: WA
+MT020881		complete	25-Jan-20	USA: WA
+MT027062		complete	29-Jan-20	USA: CA
+MT027063		complete	29-Jan-20	USA: CA
+MT027064		complete	29-Jan-20	USA: CA
+MT039873		complete	20-Jan-20	China: Hangzhou
+MT039887		complete	31-Jan-20	USA: WI
+MT039888		complete	29-Jan-20	USA: MA
+MT039890		complete	Jan-20	South Korea
+MT044257		complete	28-Jan-20	USA: IL
+MT044258		complete	27-Jan-20	USA: CA
+MT049951		complete	17-Jan-20	China: Yunnan
+MT066175		complete	31-Jan-20	Taiwan
+MT066176		complete	05-Feb-20	Taiwan
+MT072688		complete	13-Jan-20	Nepal
+MT093571		complete	07-Feb-20	Sweden
+MT093631		complete	08-Jan-20	China
+MT106052		complete	06-Feb-20	USA: CA
+MT106053		complete	10-Feb-20	USA: CA
+MT106054		complete	11-Feb-20	USA: TX
+MT118835		complete	23-Feb-20	USA: CA
+LR757997		complete, gapped	31-Dec-19	China: Wuhan
+MT020781		complete, gapped	29-Jan-20	Finland
+MT008022		M	Jan-20	Italy: Rome
+MT008023		M	Jan-20	Italy: Rome
+LC523807		N	06-Jan-20	Philippines
+LC523808		N	26-Jan-20	Philippines
+LC523809		N	23-Jan-20	Philippines
+MT081059		N	22-Jan-20	China: HuaShang
+MT081060		N	23-Jan-20	China: HuaShang
+MT081061		N	23-Jan-20	China: HuaShang
+MT081062		N	25-Jan-20	China: HuaShang
+MT081063		N	26-Jan-20	China: HuaShang
+MT081064		N	28-Jan-20	China: HuaShang
+MT081065		N	30-Jan-20	China: HuaShang
+MT081066		N	30-Jan-20	China: HuaShang
+MT081067		N	31-Jan-20	China: HuaShang
+MT081068		N	06-Feb-20	China: HuaShang
+MT072667		nsp1-nsp2	03-Feb-20	Belgium
+MT111895		NSP3	Feb-20	Australia: QLD
+MT111896		ORF3a/E	Feb-20	Australia: QLD
+LC522350		RdRP	26-Jan-20	Philippines
+MN938385		RdRP	Jan-20	China: Shenzhen
+MN938386		RdRP	Jan-20	China: Shenzhen
+MN970003		RdRP	08-Jan-20	Thailand
+MN970004		RdRP	13-Jan-20	Thailand
+MN975263		RdRP	Jan-20	China
+MN975264		RdRP	Jan-20	China
+MN975265		RdRP	Jan-20	China
+MT042773		RdRp	Jan-20	China: Wuhan
+MT042774		RdRp	Jan-20	China: Wuhan
+MT042775		RdRp	Jan-20	China: Wuhan
+MT042776		RdRp	Jan-20	China: Wuhan
+MT042777		RdRp	Jan-20	China: Wuhan
+MT042778		RdRp	Jan-20	China: Wuhan
+MT050414		RdRP	Jan-20	Australia: QLD
+MT050415		RdRP	Jan-20	Australia: QLD
+MT050416		RdRP	Jan-20	Australia: QLD
+MT050417		RdRP	Jan-20	Australia: QLD
+MT066157		RdRp	24-Jan-20	Malaysia
+MT066158		RdRp	24-Jan-20	Malaysia
+MT066159		RdRp	24-Jan-20	Malaysia
+MT072668		RdRp	03-Feb-20	Belgium
+MN938387		S	Jan-20	China: Shenzhen
+MN938388		S	Jan-20	China: Shenzhen
+MN938389		S	Jan-20	China: Shenzhen
+MN938390		S	Jan-20	China: Shenzhen
+MN975266		S	Jan-20	China
+MN975267		S	Jan-20	China
+MN975268		S	Jan-20	China
